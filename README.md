@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/specimba/nexus-STARS-sync/main/assets/logo.png" width="80" alt="nexus logo" onerror="this.style.display='none'">
-
+<img width="1280" height="720" alt="8ddbe9cf-228e-4086-bd4a-dd925476e49a (1)" src="https://github.com/user-attachments/assets/30a71539-8e3a-4bb2-9cbf-af76ab13222a" />
 # ⭐ nexus-STARS-sync
 
 ### A curated archive of 457 repositories across 25 languages
